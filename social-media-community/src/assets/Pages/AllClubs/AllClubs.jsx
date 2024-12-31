@@ -27,12 +27,12 @@ const AllClubs = () => {
           whileTap={{ scale: 0.95 }}
           initial={{ scale: 1 }}
           transition={{ duration: 0.3 }}
-          className="card  card-side bg-base-100 shadow-xl flex justify-between items-center"
+          className="card card-side bg-base-100 shadow-xl flex flex-col md:flex-row justify-center md:justify-between items-center my-8"
         >
           <figure>
             <img
               src={club?.image}
-              className="w-full rounded-md shadow-md h-40"
+              className=" rounded-md shadow-md justify-start h-fit md:h-44 w-full"
             />
           </figure>
           <div className="card-body text-start">
@@ -48,7 +48,7 @@ const AllClubs = () => {
                 whileTap={{ scale: 0.95 }}
                 initial={{ scale: 1 }}
                 transition={{ duration: 0.3 }}
-                className="btn bg-black hover:bg-gray-600  text-white w-full h-10"
+                className="btn bg-transparent hover:bg-gray-600 w-full h-10"
               >
                 View <FaArrowRight />
               </motion.div>

@@ -1,0 +1,203 @@
+[
+    {
+      "name": "Commerce Club",
+      "id": 1,
+      "description": "This is a description of the commerce department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2020-01-01",
+      "members": 23,
+      "departments": [
+        {
+          "name": "Marketing",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Accounting",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Science Club",
+      "id": 2,
+      "description": "This is a description of the science department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2020-01-01",
+      "members": 30,
+      "departments": [
+        {
+          "name": "Physics",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Biology",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Arts Club",
+      "id": 3,
+      "description": "This is a description of the arts department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2020-01-01",
+      "members": 25,
+      "departments": [
+        {
+          "name": "Fine Arts",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Performing Arts",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Literature Club",
+      "id": 4,
+      "description": "This is a description of the literature department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2021-05-15",
+      "members": 20,
+      "departments": [
+        {
+          "name": "Poetry",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Prose",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Sports Club",
+      "id": 5,
+      "description": "This is a description of the sports department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2019-06-12",
+      "members": 40,
+      "departments": [
+        {
+          "name": "Cricket",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Football",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Drama Club",
+      "id": 6,
+      "description": "This is a description of the drama department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2018-02-20",
+      "members": 22,
+      "departments": [
+        {
+          "name": "Theater",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Improvisation",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Music Club",
+      "id": 7,
+      "description": "This is a description of the music department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2017-09-10",
+      "members": 28,
+      "departments": [
+        {
+          "name": "Vocal",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Instrumental",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Debate Club",
+      "id": 8,
+      "description": "This is a description of the debate department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2020-11-11",
+      "members": 18,
+      "departments": [
+        {
+          "name": "Parliamentary Debate",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Extemporaneous Debate",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Robotics Club",
+      "id": 9,
+      "description": "This is a description of the robotics department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2021-03-05",
+      "members": 35,
+      "departments": [
+        {
+          "name": "Hardware",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Software",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "name": "Photography Club",
+      "id": 10,
+      "description": "This is a description of the photography department.",
+      "image": "https://picsum.photos/200/300",
+      "establishedDate": "2016-07-01",
+      "members": 30,
+      "departments": [
+        {
+          "name": "Portrait Photography",
+          "id": 1,
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "name": "Landscape Photography",
+          "id": 2,
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+    }
+  ]
+  

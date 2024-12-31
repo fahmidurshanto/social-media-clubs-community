@@ -15,7 +15,7 @@ const Home = () => {
     <div className="text-3xl font-bold">
       <h3 className="text-3xl text-start font-extralight my-10">Clubs: {clubs.length}</h3>
       <div className="grid grid-cols-4 gap-10">
-        {clubs.map((club, index) => {
+        {clubs.slice(0,4).map((club, index) => {
           return (
             <motion.div
             onClick={()=> <Modal></Modal>}
@@ -46,7 +46,7 @@ const Home = () => {
       <motion.button whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.95 }}
             initial={{ scale: 1 }}
-            transition={{ duration: 0.3 }} className="btn hover:bg-slate-500 px-10 my-10 bg-black text-white">Explore More</motion.button>
+            transition={{ duration: 0.3 }} className="btn hover:bg-slate-500 px-10 mt-16 bg-black text-white">Explore More</motion.button>
       </Link>
     </div>
   );
